@@ -23,9 +23,11 @@ Port: 587
   It's email of sender.
 * Domain    
   Use the email domain created in the previous step
-* Authentication 
+* Authentication   
   Use username and password retrieved from postmark setting previously as `Alternative Email ID` and`Password` 
-* enable  `Enable Outgoing`
-* ` Default Outgoing`
+* enable  
+  `Enable Outgoing`
+* enable   
+  ` Default Outgoing`
 # 4. sender set
 ![sender.png](image%2Fsender.png)
